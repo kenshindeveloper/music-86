@@ -1,0 +1,22 @@
+changelog
+---------
+
+Current Release:    music-86 1.0.0 (Enero 2019)
+------------------------------------------------
+Release:    music-86 1.0.0 (Enero 2019)
+------------------------------------------------
+Faltan:
+- corregir la sincronización entre cambio de canciones.
+- desplazamiento entre canciones cuando el reproductor este activado.
+- mejorar imagen de inicio.
+- establecer una unica carga de fuentes.
+- establecer una unica carga de sprites.
+- cambiar el icono del ejecutable.
+- ventana con la informacion(nombre) de la canción en label "grid".
+- corregir cambio de canciones según el tiempo de reproducción.
+- textos en unicode.
+- corregir el texto sobresaliente en la clase option.
+
+Listos:
+- separación entre nombre de canciones.
+- ventana para la confirmacion de salida del reproductor.

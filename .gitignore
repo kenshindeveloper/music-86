@@ -1,0 +1,5 @@
+music/
+.vscode/
+*.exe
+*.o
+*.mp3
